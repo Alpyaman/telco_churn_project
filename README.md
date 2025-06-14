@@ -80,8 +80,8 @@ This script:
 - Integration with live churn dashboard
 
 ## 👤 About Me
-I’m a data-driven problem solver with a passion for transforming raw data into actionable insights. This project reflects my proficiency in classification tasks, real-world deployment pipelines, and business impact-focused modeling.
-🔗 [Linkedln](https://www.linkedin.com/in/alp-yaman-75a901174/) | 📧 alpyaman3@gmail.com
+- I’m a data-driven problem solver with a passion for transforming raw data into actionable insights. This project reflects my proficiency in classification tasks, real-world deployment pipelines, and business impact-focused modeling.
+- 🔗 [Linkedln](https://www.linkedin.com/in/alp-yaman-75a901174/) | 📧 alpyaman3@gmail.com
 
 
 
