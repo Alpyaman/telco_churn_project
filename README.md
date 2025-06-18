@@ -1,5 +1,7 @@
 # Customer Churn Prediction - Telco Dataset 📉🔍
 
+![Telco Churn Project Thumbnail](telco_thumbnail.png)
+
 ## 📌 Project Overview
 
 This project aims to predict **customer churn** using a real-world Telco dataset. The objective is to help telecom companies **identify customers at risk of leaving**, allowing them to proactively take retention measures. This end-to-end machine learning pipeline demonstrates my ability to handle imbalanced classification problems with modern techniques like **SMOTE, hyperparameter tuning (GridSearchCV)**, and **ensemble modeling (VotingClassifier)**.
